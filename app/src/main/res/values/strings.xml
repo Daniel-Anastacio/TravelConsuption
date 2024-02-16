@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TravelConsuption</string>
+    <string name="textHeader">Calcule o consumo de sua viagem</string>
+    <string name="editDistance">(Km)</string>
+    <string name="textDistance">Digite a distância da viagem</string>
+    <string name="editFuel">(R$)</string>
+    <string name="textFuel">Digite o preço unitário do litro da gasolina</string>
+    <string name="editAutonomy">(Km/l)</string>
+    <string name="textAutonomy">Digite quantos quilômetros seu carro faz com 1 litro gasolina</string>
+    <string name="textResult">Seu gasto será de:</string>
+    <string name="textResultPrice">R$ 0</string>
+    <string name="buttonCalculate">Calcular</string>
+    <string name="fill_in_all_fields">Preencha todos os campos correntamente</string>
+</resources>
